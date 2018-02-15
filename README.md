@@ -19,3 +19,11 @@ Stuff is divided across three repositories:
 - [**open_exercise**](https://github.com/jeffmaher/open_exercise) (this): Application design documents and other high-level materials.
 - [**open_exercise_api**](https://github.com/jeffmaher/open_exercise_api): Source code for the REST API and data layer. 
 - [**open_exercise_ui**](https://github.com/jeffmaher/open_exercise_ui): Source code for the user interface.
+
+### This Repo
+
+Currently, the only file of note is a Sketch design file, `open_exercise.sketch`. Within this file, there are several Sketch Pages:
+
+- **Application**: Visual designs for the application.
+- **Common**: Sketch templates specific to Open Exercise components for mockups.
+- **Sketch Wireframing Kit - \***: Symbol library. (I'm gonna remove this now that I know how to actually import Sketch Symbol Libraries)
