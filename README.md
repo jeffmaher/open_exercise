@@ -1,6 +1,6 @@
 # Open Exercise
 
-Create and workout to exercise routines!
+Create exercise routines, then workout!
 
 ## Disclaimer
 
